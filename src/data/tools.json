@@ -1,0 +1,42 @@
+{
+  "Plan": [
+    "Backlog Manager",
+    "Roadmap Viewer",
+    "Requirements Uploader"
+  ],
+  "Code": [
+    "Repo Creator",
+    "Code Quality Report",
+    "Branch Protection Config"
+  ],
+  "Build": [
+    "New Project Wizard",
+    "Docker Image Builder",
+    "SBOM Generator"
+  ],
+  "Test": [
+    "Unit Test Runner",
+    "E2E Runner",
+    "Perf Test Launcher"
+  ],
+  "Release": [
+    "Migrate to EKS",
+    "Tag & Release",
+    "Changelog Generator"
+  ],
+  "Deploy": [
+    "Blue/Green Deploy",
+    "Canary Deploy",
+    "Rollback Tool"
+  ],
+  "Operate": [
+    "Runbook Viewer",
+    "On-Call Rota",
+    "Incident Commander"
+  ],
+  "Monitor": [
+    "Metrics Explorer",
+    "Log Search",
+    "Alert Tuner"
+  ]
+}
